@@ -1,0 +1,3 @@
+ndk-build 
+
+REM NON DEBUG REMOVE NDK_DEBUG=1

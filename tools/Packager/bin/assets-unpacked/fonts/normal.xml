@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font type="GHL">
+ <description size="48" family="High Thin LIGHT" style="Regular"/>
+ <metrics ascender="58" height="74" descender="-14"/>
+ <texture width="512" height="512" file="normal.png"/>
+ <chars>
+  <char offset="0 0" rect="1 57 0 0" advance="18" id=" "/>
+  <char offset="2 48" rect="2 9 7 46" advance="12" id="!"/>
+  <char offset="2 48" rect="10 9 13 9" advance="18" id="&quot;"/>
+  <char offset="3 48" rect="24 9 35 44" advance="41" id="#"/>
+  <char offset="2 55" rect="60 2 24 59" advance="28" id="$"/>
+  <char offset="3 48" rect="85 9 36 44" advance="41" id="%"/>
+  <char offset="2 48" rect="122 9 25 44" advance="30" id="&amp;"/>
+  <char offset="2 48" rect="148 9 7 9" advance="12" id="'"/>
+  <char offset="2 56" rect="156 1 11 59" advance="16" id="("/>
+  <char offset="3 56" rect="168 1 11 59" advance="16" id=")"/>
+  <char offset="2 48" rect="180 9 17 14" advance="21" id="*"/>
+  <char offset="3 39" rect="198 18 27 26" advance="32" id="+"/>
+  <char offset="2 11" rect="226 46 7 9" advance="12" id=","/>
+  <char offset="3 28" rect="234 29 26 3" advance="32" id="-"/>
+  <char offset="2 10" rect="261 47 7 8" advance="12" id="."/>
+  <char offset="3 48" rect="269 9 13 44" advance="19" id="/"/>
+  <char offset="2 48" rect="283 9 24 44" advance="28" id="0"/>
+  <char offset="2 48" rect="308 9 9 44" advance="13" id="1"/>
+  <char offset="2 48" rect="318 9 25 44" advance="30" id="2"/>
+  <char offset="2 48" rect="344 9 26 44" advance="30" id="3"/>
+  <char offset="3 48" rect="371 9 25 44" advance="30" id="4"/>
+  <char offset="3 48" rect="397 9 25 44" advance="30" id="5"/>
+  <char offset="2 48" rect="423 9 26 44" advance="30" id="6"/>
+  <char offset="3 48" rect="450 9 24 44" advance="30" id="7"/>
+  <char offset="2 48" rect="475 9 26 44" advance="30" id="8"/>
+  <char offset="2 48" rect="1 62 25 44" advance="29" id="9"/>
+  <char offset="2 41" rect="27 69 8 29" advance="12" id=":"/>
+  <char offset="2 41" rect="36 69 8 31" advance="12" id=";"/>
+  <char offset="3 42" rect="45 68 29 33" advance="35" id="&lt;"/>
+  <char offset="2 38" rect="75 72 27 24" advance="32" id="="/>
+  <char offset="3 42" rect="103 68 29 33" advance="35" id=">"/>
+  <char offset="2 48" rect="133 62 34 46" advance="38" id="?"/>
+  <char offset="2 48" rect="168 62 46 44" advance="51" id="@"/>
+  <char offset="3 48" rect="215 62 24 44" advance="30" id="A"/>
+  <char offset="2 48" rect="240 62 24 44" advance="28" id="B"/>
+  <char offset="2 48" rect="265 62 22 44" advance="27" id="C"/>
+  <char offset="2 48" rect="288 62 23 44" advance="27" id="D"/>
+  <char offset="2 48" rect="312 62 21 44" advance="25" id="E"/>
+  <char offset="2 48" rect="334 62 19 44" advance="24" id="F"/>
+  <char offset="2 48" rect="354 62 24 44" advance="28" id="G"/>
+  <char offset="2 48" rect="379 62 26 44" advance="30" id="H"/>
+  <char offset="2 48" rect="406 62 3 44" advance="7" id="I"/>
+  <char offset="3 48" rect="410 62 22 44" advance="27" id="J"/>
+  <char offset="2 48" rect="433 62 25 44" advance="30" id="K"/>
+  <char offset="2 48" rect="459 62 19 44" advance="24" id="L"/>
+  <char offset="3 48" rect="1 115 46 44" advance="52" id="M"/>
+  <char offset="2 48" rect="48 115 26 44" advance="30" id="N"/>
+  <char offset="2 48" rect="75 115 24 44" advance="28" id="O"/>
+  <char offset="2 48" rect="100 115 19 44" advance="23" id="P"/>
+  <char offset="2 48" rect="120 115 24 44" advance="28" id="Q"/>
+  <char offset="2 48" rect="145 115 19 44" advance="23" id="R"/>
+  <char offset="2 48" rect="165 115 24 44" advance="28" id="S"/>
+  <char offset="3 48" rect="190 115 25 44" advance="30" id="T"/>
+  <char offset="2 48" rect="216 115 24 44" advance="28" id="U"/>
+  <char offset="3 48" rect="241 115 24 44" advance="30" id="V"/>
+  <char offset="3 48" rect="266 115 46 44" advance="52" id="W"/>
+  <char offset="3 48" rect="313 115 24 44" advance="30" id="X"/>
+  <char offset="2 48" rect="338 115 25 44" advance="29" id="Y"/>
+  <char offset="3 48" rect="364 115 24 44" advance="30" id="Z"/>
+  <char offset="2 54" rect="389 109 15 55" advance="20" id="["/>
+  <char offset="3 48" rect="405 115 13 44" advance="19" id="\"/>
+  <char offset="2 54" rect="419 109 16 55" advance="20" id="]"/>
+  <char offset="3 48" rect="436 115 14 12" advance="20" id="^"/>
+  <char offset="3 6" rect="451 157 35 2" advance="41" id="_"/>
+  <char offset="3 48" rect="487 115 8 12" advance="14" id="`"/>
+  <char offset="2 32" rect="1 181 24 28" advance="28" id="a"/>
+  <char offset="2 48" rect="26 165 24 44" advance="28" id="b"/>
+  <char offset="2 32" rect="51 181 24 28" advance="28" id="c"/>
+  <char offset="2 48" rect="76 165 24 44" advance="28" id="d"/>
+  <char offset="2 32" rect="101 181 25 28" advance="29" id="e"/>
+  <char offset="3 46" rect="127 167 19 42" advance="25" id="f"/>
+  <char offset="2 32" rect="147 181 25 41" advance="29" id="g"/>
+  <char offset="2 48" rect="173 165 24 44" advance="28" id="h"/>
+  <char offset="2 48" rect="198 165 7 44" advance="12" id="i"/>
+  <char offset="2 48" rect="206 165 17 57" advance="21" id="j"/>
+  <char offset="2 48" rect="224 165 25 44" advance="29" id="k"/>
+  <char offset="2 48" rect="250 165 3 44" advance="7" id="l"/>
+  <char offset="2 32" rect="254 181 47 28" advance="51" id="m"/>
+  <char offset="2 32" rect="302 181 25 28" advance="29" id="n"/>
+  <char offset="2 32" rect="328 181 25 28" advance="29" id="o"/>
+  <char offset="2 32" rect="354 181 24 42" advance="28" id="p"/>
+  <char offset="2 32" rect="379 181 24 42" advance="28" id="q"/>
+  <char offset="2 32" rect="404 181 18 28" advance="22" id="r"/>
+  <char offset="2 32" rect="423 181 24 28" advance="28" id="s"/>
+  <char offset="3 48" rect="448 165 19 44" advance="25" id="t"/>
+  <char offset="2 32" rect="468 181 24 28" advance="28" id="u"/>
+  <char offset="3 32" rect="1 248 23 28" advance="29" id="v"/>
+  <char offset="3 32" rect="25 248 44 28" advance="50" id="w"/>
+  <char offset="3 32" rect="70 248 24 28" advance="30" id="x"/>
+  <char offset="3 32" rect="95 248 24 41" advance="30" id="y"/>
+  <char offset="3 33" rect="120 247 24 29" advance="30" id="z"/>
+  <char offset="3 56" rect="145 224 12 60" advance="17" id="{"/>
+  <char offset="2 56" rect="158 224 3 59" advance="7" id="|"/>
+  <char offset="2 56" rect="162 224 12 60" advance="17" id="}"/>
+  <char offset="3 30" rect="175 250 35 7" advance="41" id="~"/>
+ </chars>
+</font>
